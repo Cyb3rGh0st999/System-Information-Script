@@ -24,9 +24,10 @@ This script uses Python's built-in libraries and does **not** require any extern
    cd system-info-script
 
 
-2. Nextt run the python command.
+2. Next run the python command.
 
-   ```python main.py
+   ```
+   python main.py
 
 4. Example of python script output.
   ```
