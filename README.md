@@ -22,14 +22,16 @@ This script uses Python's built-in libraries and does **not** require any extern
    ```bash
    git clone https://github.com/yourusername/system-info-script.git
    cd system-info-script
-
+   ```
 
 2. Next run the python command.
 
    ```
    python main.py
+   ```
 
 4. Example of python script output.
+  
   ```
   Operating System: Linux
   OS Version: #48~18.04.1-Ubuntu SMP Tue Jun 23 02:53:57 UTC 2020
@@ -39,3 +41,4 @@ This script uses Python's built-in libraries and does **not** require any extern
   Total RAM: 15.57 GB
   Total Disk Space: 256.0 GB
   Available Disk Space: 120.5 GB
+  ```
